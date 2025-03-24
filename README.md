@@ -30,7 +30,7 @@
 Для работы программы не требуется установка сторонних библиотек, в связи с чем достаточно выполнить следующий код:
 
 ```bash
-git clone ...
+git clone git@github.com:Mahallis/neirosTest.git
 cd TestVectorCLI
 python3 main.py
 ```
