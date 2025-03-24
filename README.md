@@ -31,6 +31,6 @@
 
 ```bash
 git clone git@github.com:Mahallis/neirosTest.git
-cd TestVectorCLI
+cd neirosTest
 python3 main.py
 ```
